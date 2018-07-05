@@ -3,7 +3,6 @@
    "extensions": [
        "optcustomerfacade",
        "mcc",
-       "productcockpit",
        "yacceleratorstorefront",
        "backoffice",
        "platformbackoffice",
