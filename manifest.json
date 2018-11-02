@@ -1,3 +1,4 @@
+
 {
    "commerceSuiteVersion": "6.7.0.1",
    "extensions": [
@@ -267,6 +268,7 @@
             "addon": "acceleratorwebservicesaddon",
             "storefront": "ycommercewebservices",
             "template": "ycommercewebservices"
+            },
         {
             "addon": "messagecentercsoccaddon",
             "storefront": "ycommercewebservices",
