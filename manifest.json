@@ -67,75 +67,233 @@
    "storeFrontWebRoot": "/yacceleratorstorefront",
    "storefrontAddons": [
         {
-            "addon": "commerceorgsamplesaddon",
-            "storefront": "yacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-        },
-          {
-            "addon": "promotionenginesamplesaddon",
-            "storefront": "yacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-        },
-          {
-            "addon": "smarteditaddon",
-            "storefront": "yacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-        },
-          {
-            "addon": "textfieldconfiguratortemplateaddon",
-            "storefront": "yacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-        },
-          {
-            "addon": "assistedservicestorefront",
-            "storefront": "yacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-        },
-          {
-            "addon": "assistedservicepromotionaddon",
-            "storefront": "yacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-        },
-          {
-            "addon": "customerticketingaddon",
-            "storefront": "yacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-        },
-          {
-            "addon": "orderselfserviceaddon",
-            "storefront": "yacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-        },
-          {
-            "addon": "adaptivesearchsamplesaddon",
-            "storefront": "yacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-        },
-          {
-            "addon": "multicountrysampledataaddon",
-            "storefront": "yacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-        },
-          {
-            "addon": "pcmbackofficesamplesaddon",
-            "storefront": "yacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-        },
-          {
-            "addon": "personalizationsearchsamplesaddon",
-            "storefront": "yacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-        },
-        {
-            "addon": "acceleratorwebservicesaddon",
-            "storefront": "ycommercewebservices",
-            "template": "ycommercewebservices"
-        }, 
-        {
-            "addon": "cmsoccaddon",
-            "storefront": "ycommercewebservices",
-            "template": "ycommercewebservices"
-        }
+    "addon":"chineseprofileaddon",
+    "storefront": "yacceleratorstorefront",
+    "template": "yacceleratorstorefront"
+
+},
+{
+    "addon":"chineselogisticaddon",
+    "storefront": "yacceleratorstorefront",
+    "template": "yacceleratorstorefront"
+
+},
+{
+    "addon":"chinesepaymentaddon",
+    "storefront": "yacceleratorstorefront",
+    "template": "yacceleratorstorefront"
+
+},
+{
+    "addon":"chinesetaxinvoiceaddon",
+    "storefront": "yacceleratorstorefront",
+    "template": "yacceleratorstorefront"
+
+},
+{
+    "addon":"chinesepspalipaysamplesaddon",
+    "storefront": "yacceleratorstorefront",
+    "template": "yacceleratorstorefront"
+
+},
+{
+    "addon":"chinesestoreaddon",
+    "storefront": "yacceleratorstorefront",
+    "template": "yacceleratorstorefront"
+
+},
+{
+    "addon":"verticalnavigationaddon",
+    "storefront": "yacceleratorstorefront",
+    "template": "yacceleratorstorefront"
+
+},
+{
+    "addon":"chineseaddressaddon",
+    "storefront": "yacceleratorstorefront",
+    "template": "yacceleratorstorefront"
+
+},
+{
+    "addon":"chinesepspwechatpaymentaddon",
+    "storefront": "yacceleratorstorefront",
+    "template": "yacceleratorstorefront"
+
+},
+{
+    "addon":"chinesepspwechatpaysamplesaddon",
+    "storefront": "yacceleratorstorefront",
+    "template": "yacceleratorstorefront"
+
+},
+{
+    "addon":"consignmenttrackingaddon",
+    "storefront": "yacceleratorstorefront",
+    "template": "yacceleratorstorefront"
+
+},
+{
+    "addon":"notificationaddon",
+    "storefront": "yacceleratorstorefront",
+    "template": "yacceleratorstorefront"
+
+},
+{
+    "addon":"customerinterestsaddon",
+    "storefront": "yacceleratorstorefront",
+    "template": "yacceleratorstorefront"
+
+},
+{
+    "addon":"stocknotificationaddon",
+    "storefront": "yacceleratorstorefront",
+    "template": "yacceleratorstorefront"
+
+},
+{
+    "addon":"chineseproductsharingaddon",
+    "storefront": "yacceleratorstorefront",
+    "template": "yacceleratorstorefront"
+
+},
+{
+    "addon":"selectivecartaddon",
+    "storefront": "yacceleratorstorefront",
+    "template": "yacceleratorstorefront"
+
+},
+{
+    "addon":"customercouponaddon",
+    "storefront": "yacceleratorstorefront",
+    "template": "yacceleratorstorefront"
+
+},
+{
+    "addon":"customercouponsamplesaddon",
+    "storefront": "yacceleratorstorefront",
+    "template": "yacceleratorstorefront"
+
+},
+{
+    "addon":"commerceorgsamplesaddon",
+    "storefront": "yacceleratorstorefront",
+    "template": "yacceleratorstorefront"
+
+},
+{
+    "addon":"promotionenginesamplesaddon",
+    "storefront": "yacceleratorstorefront",
+    "template": "yacceleratorstorefront"
+
+},
+{
+    "addon":"smarteditaddon",
+    "storefront": "yacceleratorstorefront",
+    "template": "yacceleratorstorefront"
+
+},
+{
+    "addon":"textfieldconfiguratortemplateaddon",
+    "storefront": "yacceleratorstorefront",
+    "template": "yacceleratorstorefront"
+
+},
+{
+    "addon":"assistedservicestorefront",
+    "storefront": "yacceleratorstorefront",
+    "template": "yacceleratorstorefront"
+
+},
+{
+    "addon":"assistedservicepromotionaddon",
+    "storefront": "yacceleratorstorefront",
+    "template": "yacceleratorstorefront"
+
+},
+{
+    "addon":"customerticketingaddon",
+    "storefront": "yacceleratorstorefront",
+    "template": "yacceleratorstorefront"
+
+},
+{
+    "addon":"orderselfserviceaddon",
+    "storefront": "yacceleratorstorefront",
+    "template": "yacceleratorstorefront"
+
+},
+{
+    "addon":"adaptivesearchsamplesaddon",
+    "storefront": "yacceleratorstorefront",
+    "template": "yacceleratorstorefront"
+
+},
+{
+    "addon":"timedaccesspromotionengineaddon",
+    "storefront": "yacceleratorstorefront",
+    "template": "yacceleratorstorefront"
+
+},
+{
+    "addon":"timedaccesspromotionenginesamplesaddon",
+    "storefront": "yacceleratorstorefront",
+    "template": "yacceleratorstorefront"
+
+},
+{
+    "addon":"personalizationsearchsamplesaddon",
+    "storefront": "yacceleratorstorefront",
+    "template": "yacceleratorstorefront"
+
+},
+{
+    "addon":"acceleratorwebservicesaddon",
+    "storefront": "ycommercewebservices",
+    "template": "ycommercewebservices"
+
+},
+{
+    "addon":"messagecentercsoccaddon",
+    "storefront": "ycommercewebservices",
+    "template": "ycommercewebservices"
+
+},
+{
+    "addon":"consignmenttrackingoccaddon",
+    "storefront": "ycommercewebservices",
+    "template": "ycommercewebservices"
+
+},
+{
+    "addon":"customerinterestsoccaddon",
+    "storefront": "ycommercewebservices",
+    "template": "ycommercewebservices"
+
+},
+{
+    "addon":"customercouponoccaddon",
+    "storefront": "ycommercewebservices",
+    "template": "ycommercewebservices"
+
+},
+{
+    "addon":"notificationoccaddon",
+    "storefront": "ycommercewebservices",
+    "template": "ycommercewebservices"
+
+},
+{
+    "addon":"stocknotificationoccaddon",
+    "storefront": "ycommercewebservices",
+    "template": "ycommercewebservices"
+
+},
+{
+    "addon":"cmsoccaddon",
+    "storefront": "ycommercewebservices",
+    "template": "ycommercewebservices"
+
+}
        ],
    "properties": [
         {
