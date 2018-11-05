@@ -130,16 +130,6 @@
             "addon": "acceleratorwebservicesaddon",
             "storefront": "ycommercewebservices",
             "template": "ycommercewebservices"
-            },
-        {
-            "addon": "messagecentercsoccaddon",
-            "storefront": "ycommercewebservices",
-            "template": "ycommercewebservices"
-        }, 
-        {
-            "addon": "acceleratorwebservicesaddon",
-            "storefront": "ycommercewebservices",
-            "template": "ycommercewebservices"
         }, 
         {
             "addon": "cmsoccaddon",
