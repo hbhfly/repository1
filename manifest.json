@@ -1,265 +1,127 @@
 
 {
-   "commerceSuiteVersion": "6.7.0.1",
+   "commerceSuiteVersion": "18.08.0",
    "extensions": [
-       "optcustomerfacade",
-       "mcc",
-       "yacceleratorstorefront",
-       "backoffice",
-       "platformbackoffice",
-       "electronicsstore",
-       "basecommercebackoffice",       
-       "yacceleratorfulfilmentprocess",
-       "solrfacetsearchbackoffice",
-       "mcc",
-       "adaptivesearchsolr",
+        "mcc",
+	   "adaptivesearchsolr",
        "adaptivesearchbackoffice",
        "adaptivesearchsamplesaddon",
-       "adaptivesearchwebservices",
+	   "adaptivesearchwebservices",
        "commerceservicesbackoffice",
-       "solrfacetsearchbackoffice",
-       "solrserver",
-       "yacceleratorcockpits",
-       "yacceleratorinitialdata",
-       "yacceleratorfulfilmentprocess",
-       "yacceleratorstorefront",
-       "ycommercewebservices",
-       "ycommercewebservicestest",
-       "electronicsstore",
-       "acceleratorwebservicesaddon",
-       "orderselfserviceaddon",
-       "customersupportbackoffice",
-       "customerticketingaddon",
-       "commerceorgsamplesaddon",
-       "rulebuilderbackoffice",
-       "couponbackoffice",
-       "droolsruleengineservices",
-       "couponfacades",
-       "promotionenginesamplesaddon",
-       "cmswebservices",
-       "smarteditwebservices",
-       "cmssmarteditwebservices",
-       "permissionswebservices",
-       "smarteditaddon",
-       "cmssmartedit",
-       "cmsbackoffice",
-       "previewpersonalizationweb",
-       "personalizationcmsweb",
-       "personalizationsmartedit",
+	   "solrfacetsearchbackoffice",
+	   "solrserver",
+	   "yacceleratorcockpits",
+	   "yacceleratorinitialdata",
+	   "yacceleratorfulfilmentprocess",
+	   "yacceleratorstorefront",
+	   "ycommercewebservices",
+	   "ycommercewebservicestest",
+	   "electronicsstore",
+	   "apparelstore",
+	   "acceleratorwebservicesaddon",
+	   "orderselfserviceaddon",
+	   "customersupportbackoffice",
+	   "customerticketingaddon",
+	   "commerceorgsamplesaddon",
+	   "rulebuilderbackoffice",
+	   "couponbackoffice",
+	   "droolsruleengineservices",
+	   "couponfacades",
+	   "promotionenginesamplesaddon",
+	   "cmswebservices",
+	   "smarteditwebservices",
+	   "cmssmarteditwebservices",
+	   "permissionswebservices",
+	   "smarteditaddon",
+	   "cmssmartedit",
+	   "cmsbackoffice",
+       "cmsmulticountrycockpit",
+       "multicountrysampledataaddon",
+		"cmsoccaddon",
+	   "previewpersonalizationweb",
+	   "personalizationcmsweb",
+	   "personalizationsmartedit",
        "personalizationpromotionssmartedit",
-       "personalizationsampledataaddon",
-       "personalizationpromotions",
-       "personalizationpromotionsweb",
-       "personalizationservicesbackoffice",
-       "personalizationpromotionsbackoffice",
-       "personalizationcmsbackoffice",
-       "personalizationsearchbackoffice",
-       "personalizationsearchsmartedit",
-       "personalizationsearchweb",
-       "personalizationsearchsamplesaddon",
-       "textfieldconfiguratortemplatebackoffice",
-       "textfieldconfiguratortemplateaddon",
-       "assistedservicestorefront",
-       "assistedservicewebservices",
-       "assistedservicepromotionaddon",
-       "assistedserviceatddtests",
-       "promotionengineatddtests",
-       "textfieldconfiguratortemplateatddtests",
-       "pcmbackoffice",
-       "chineseprofileaddon",
-       "chineselogisticaddon",
-       "chineselogisticbackoffice",
-       "chinesepaymentaddon",
-        "chinesetaxinvoiceaddon",
-        "chinesetaxinvoicebackoffice",
-        "chinesepspalipaymock",
-        "chinesepspalipaysamplesaddon",
-        "chinesepspalipaysbackoffice",
-        "chinesestoreaddon",
-        "verticalnavigationaddon",
-        "chineseaddressaddon",
-        "chineseaddressbackoffice",
-        "chinesepspwechatpaymentaddon",
-        "chinesepspwechatpaysamplesaddon",
-        "chinesepspwechatpaysbackoffice",
-        "consignmenttrackingaddon",
-        "consignmenttrackingmock",
-        "consignmenttrackingbackoffice",
-        "notificationaddon",
-        "customerinterestsaddon",
-        "stocknotificationaddon",
-        "chineseproductsharingaddon",
-        "selectivecartaddon",
-        "customercouponaddon",
-        "customercouponsamplesaddon",
-        "customercouponbackoffice",
-        "timedaccesspromotionengineaddon",
-        "timedaccesspromotionenginesamplesaddon",
-        "timedaccesspromotionenginebackoffice",
-        "messagecentercsoccaddon",
-        "consignmenttrackingoccaddon",
-        "customerinterestsoccaddon",
-        "customercouponoccaddon",
-        "notificationoccaddon",
-        "stocknotificationoccaddon",
-        "commerceservicesbackoffice"
+	   "personalizationsampledataaddon",
+	   "personalizationpromotionssampledataaddon",
+	   "personalizationpromotions",
+	   "personalizationpromotionsweb",
+	   "personalizationservicesbackoffice",
+	   "personalizationpromotionsbackoffice",
+	   "personalizationcmsbackoffice",
+	   "personalizationsearchbackoffice",
+	   "personalizationsearchsmartedit",
+	   "personalizationsearchweb",
+	   "personalizationsearchsamplesaddon",
+	   "textfieldconfiguratortemplatebackoffice",
+	   "textfieldconfiguratortemplateaddon",
+	   "assistedservicestorefront",
+	   "assistedservicewebservices",
+	   "assistedservicepromotionaddon",
+	   "assistedserviceatddtests",
+	   "promotionengineatddtests",
+	   "textfieldconfiguratortemplateatddtests",
+       "pcmbackofficesamplesaddon"
    ],
    "storeFrontExtension": "yacceleratorstorefront",
    "storeFrontWebRoot": "/yacceleratorstorefront",
    "storefrontAddons": [
         {
-            "addon": "chineseprofileaddon",
-            "storefront": "yacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-        },
-
-        {
-            "addon": "chineselogisticaddon",
-            "storefront": "yacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-        },
-        {
-            "addon": "chinesepaymentaddon",
-            "storefront": "yacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-        },
-        {
-            "addon": "chinesetaxinvoiceaddon",
-            "storefront": "yacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-        },
-        {
-            "addon": "chinesepspalipaysamplesaddon",
-            "storefront": "yacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-        },
-        {
-            "addon": "chinesestoreaddon",
-            "storefront": "yacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-        },
-        {
-            "addon": "verticalnavigationaddon",
-            "storefront": "yacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-        },
-        {
-            "addon": "chineseaddressaddon",
-            "storefront": "yacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-        },
-        {
-            "addon": "chinesepspwechatpaymentaddon",
-            "storefront": "yacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-        },
-        {
-            "addon": "chinesepspwechatpaysamplesaddon",
-            "storefront": "yacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-        },
-        {
-            "addon": "consignmenttrackingaddon",
-            "storefront": "yacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-       },
-    
-       {
-            "addon": "notificationaddon",
-            "storefront": "yacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-       },
-       
-       {
-            "addon": "customerinterestsaddon",
-            "storefront": "yacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-       },
-       
-       {
-            "addon": "stocknotificationaddon",
-            "storefront": "yacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-        },
-       
-        {
-            "addon": "chineseproductsharingaddon",
-            "storefront": "yacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-        },
-     
-        {
-            "addon": "selectivecartaddon",
-            "storefront": "yacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-        },
-        {
-            "addon": "customercouponaddon",
-            "storefront": "yacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-        },
-        {
-            "addon": "customercouponsamplesaddon",
-            "storefront": "yacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-        },
-        {
             "addon": "commerceorgsamplesaddon",
             "storefront": "yacceleratorstorefront",
             "template": "yacceleratorstorefront"
         },
-        {
+          {
             "addon": "promotionenginesamplesaddon",
             "storefront": "yacceleratorstorefront",
             "template": "yacceleratorstorefront"
         },
-        {
+          {
             "addon": "smarteditaddon",
             "storefront": "yacceleratorstorefront",
             "template": "yacceleratorstorefront"
         },
-        {
+          {
+            "addon": "textfieldconfiguratortemplateaddon",
+            "storefront": "yacceleratorstorefront",
+            "template": "yacceleratorstorefront"
+        },
+          {
             "addon": "assistedservicestorefront",
             "storefront": "yacceleratorstorefront",
             "template": "yacceleratorstorefront"
         },
-        {
-            "addon": "assistedservicestorefront",
+          {
+            "addon": "assistedservicepromotionaddon",
             "storefront": "yacceleratorstorefront",
             "template": "yacceleratorstorefront"
         },
-     
-        {
+          {
             "addon": "customerticketingaddon",
             "storefront": "yacceleratorstorefront",
             "template": "yacceleratorstorefront"
         },
-       
-       {
+          {
             "addon": "orderselfserviceaddon",
             "storefront": "yacceleratorstorefront",
             "template": "yacceleratorstorefront"
         },
-       
-        {
+          {
             "addon": "adaptivesearchsamplesaddon",
             "storefront": "yacceleratorstorefront",
             "template": "yacceleratorstorefront"
         },
-       
-        {
-            "addon": "timedaccesspromotionengineaddon",
+          {
+            "addon": "multicountrysampledataaddon",
             "storefront": "yacceleratorstorefront",
             "template": "yacceleratorstorefront"
         },
-       
-        {
-            "addon": "timedaccesspromotionenginesamplesaddon",
+          {
+            "addon": "pcmbackofficesamplesaddon",
             "storefront": "yacceleratorstorefront",
             "template": "yacceleratorstorefront"
         },
-       
-        {
+          {
             "addon": "personalizationsearchsamplesaddon",
             "storefront": "yacceleratorstorefront",
             "template": "yacceleratorstorefront"
@@ -275,17 +137,12 @@
             "template": "ycommercewebservices"
         }, 
         {
-            "addon": "consignmenttrackingoccaddon",
+            "addon": "acceleratorwebservicesaddon",
             "storefront": "ycommercewebservices",
             "template": "ycommercewebservices"
         }, 
         {
-            "addon": "customerinterestsoccaddon",
-            "storefront": "ycommercewebservices",
-            "template": "ycommercewebservices"
-        }, 
-        {
-            "addon": "stocknotificationoccaddon",
+            "addon": "cmsoccaddon",
             "storefront": "ycommercewebservices",
             "template": "ycommercewebservices"
         }
