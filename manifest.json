@@ -61,6 +61,7 @@
 	   "assistedserviceatddtests",
 	   "promotionengineatddtests",
 	   "textfieldconfiguratortemplateatddtests",
+	   "chineseprofileaddon",
        "pcmbackofficesamplesaddon"
    ],
    "storeFrontExtension": "yacceleratorstorefront",
