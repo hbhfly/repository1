@@ -295,6 +295,10 @@
                     "name": "smartedit",
                     "contextPath": "/smartedit"
                  },
+		 {
+                    "name": "acceleratorservices",
+                    "contextPath": "/acceleratorservices"
+                }
                  {
                     "name": "yacceleratorstorefront",
                     "contextPath": "/yacceleratorstorefront"
