@@ -245,11 +245,11 @@
         },
         {
             "key": "website.powertools.http",
-            "value": ""
+            "value": "http://accstorefront.cmja9gw7m-psdevapjd1-p1-public.model-t.cc.commerce.ondemand.com/yacceleratorstorefront"
         },
         {
             "key": "website.powertools.https",
-            "value": ""
+            "value": "https://accstorefront.cmja9gw7m-psdevapjd1-p1-public.model-t.cc.commerce.ondemand.com/yacceleratorstorefront"
         },
         {
             "key": "test.property.2",
