@@ -1,5 +1,5 @@
 {
-   "commerceSuiteVersion":"1808.3",
+   "commerceSuiteVersion":"1808.0",
    "extensions":[
       "mcc",
       "adaptivesearchsolr",
@@ -79,11 +79,6 @@
    "storefrontAddons":[
       {
          "addon":"b2bacceleratoraddon",
-         "storefront":"yb2bacceleratorstorefront",
-         "template":"yacceleratorstorefront"
-      },
-      {
-         "addon":"smarteditaddon",
          "storefront":"yb2bacceleratorstorefront",
          "template":"yacceleratorstorefront"
       },
@@ -315,4 +310,3 @@
       }
    ]
 }
-
