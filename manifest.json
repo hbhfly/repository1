@@ -1,5 +1,5 @@
 {
-   "commerceSuiteVersion":"1808.0",
+   "commerceSuiteVersion":"1808.3",
    "extensions":[
       "mcc",
       "adaptivesearchsolr",
@@ -72,6 +72,7 @@
       "configurablebundleaddon",
       "consignmenttrackingoccaddon",
       "yb2bacceleratorstorefront",
+      "smarteditaddon",
       "modeltacceleratorservices"
    ],
    "storeFrontExtension":"yb2bacceleratorstorefront",
@@ -81,6 +82,11 @@
          "addon":"b2bacceleratoraddon",
          "storefront":"yb2bacceleratorstorefront",
          "template":"yacceleratorstorefront"
+      },
+      {
+            "addon": "smarteditaddon",
+            "storefront": "yb2bacceleratorstorefront",
+            "template": "yacceleratorstorefront"
       },
       {
          "addon":"commerceorgaddon",
