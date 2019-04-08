@@ -1,5 +1,5 @@
 {
-   "commerceSuiteVersion":"18.08.0",
+   "commerceSuiteVersion":"1811.0",
    "extensions":[
       "mcc",
       "adaptivesearchsolr",
@@ -74,6 +74,16 @@
       "yb2bacceleratorstorefront",
       "modeltacceleratorservices"
    ],
+    "useConfig": {
+	 "properties":[
+			{
+                "location": "/config/d1-local.properties",
+                "persona": "development"
+				
+            }
+            
+    ]
+    },
    "storeFrontExtension":"yb2bacceleratorstorefront",
    "storeFrontWebRoot":"/yb2bacceleratorstorefront",
    "storefrontAddons":[
@@ -310,4 +320,3 @@
       }
    ]
 }
-
